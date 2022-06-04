@@ -1,0 +1,6 @@
+.tox
+.venv*
+.idea
+*.py[cod]
+__pycache__
+vatnumber.egg-info
